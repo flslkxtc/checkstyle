@@ -201,7 +201,7 @@
         </module>
         <module name="ClassDataAbstractionCoupling"/>
         <module name="ClassFanOutComplexity">
-            <property name="max" value="10"/>
+            <property name="max" value="20"/>
         </module>
         <module name="CyclomaticComplexity">
             <property name="max" value="10"/>
